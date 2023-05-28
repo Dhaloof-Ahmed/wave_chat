@@ -1,4 +1,4 @@
-# wave_chat
+# Wave_Chat
 
 A new Flutter project.
 
